@@ -14,6 +14,8 @@ class Book:
 
     def __repr__(self):
         return str(self)
+    
+print('Hi vishnu')    
 
 
 PI=1.02
